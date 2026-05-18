@@ -1,0 +1,15 @@
+# Ignore .NET build output and published app files
+Backend/TourTrackingAPI/bin/
+Backend/TourTrackingAPI/obj/
+Backend/TourTrackingAPI/publish/
+
+# Ignore user and Visual Studio files
+*.user
+*.suo
+*.vs/
+.vscode/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.cache
